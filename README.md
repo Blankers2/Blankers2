@@ -1,7 +1,5 @@
 # About Me!
 
-![notion-avatar-1714722783596.png](About%20Me!%2092d86fdd42a346799db33a0dea583cb0/notion-avatar-1714722783596.png)
-
 > **새로운 경험을 즐기는 도전자**
 
 대위 전역의 해인 2023년, 정말 하고 싶은 일을 
