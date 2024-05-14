@@ -83,7 +83,7 @@
 
 ### [ MBTI 및 성격 ]
 
-- F 비율이 높은 ***INTJ***
+- F 비율이 높은 **INTJ**
 - 의견을 **경청**하고 나누는 것을 좋아함
 - 취미생활이나 업무에서 매번 
 **“더 좋은 방법은 없을까?!”** 라는 
@@ -99,6 +99,6 @@
 [(Reference 참조 링크)](https://www.notion.so/50d0d6dbff44407bb051cc6a309894e3?v=a7708186531f49fd832f52e14fc75a57)
 
 <aside>
-❤️ ***Thank you for your time!***
+❤️ ** Thank you for your time! **
 
 </aside>
