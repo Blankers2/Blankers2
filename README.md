@@ -96,7 +96,7 @@
 
 ---
 
-[Reference 참조][(Reference 참조)](https://www.notion.so/50d0d6dbff44407bb051cc6a309894e3?v=a7708186531f49fd832f52e14fc75a57)
+[(Reference 참조 링크)](https://www.notion.so/50d0d6dbff44407bb051cc6a309894e3?v=a7708186531f49fd832f52e14fc75a57)
 
 <aside>
 ❤️ ***Thank you for your time!***
