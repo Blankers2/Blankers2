@@ -96,7 +96,7 @@
 
 ---
 
-[Reference 참조][(About%20Me!%2092d86fdd42a346799db33a0dea583cb0/Reference%20%E1%84%8E%E1%85%A1%E1%86%B7%E1%84%8C%E1%85%A9%2050d0d6dbff44407bb051cc6a309894e3.csv)](https://www.notion.so/50d0d6dbff44407bb051cc6a309894e3?v=a7708186531f49fd832f52e14fc75a57)
+[Reference 참조][(Reference 참조)](https://www.notion.so/50d0d6dbff44407bb051cc6a309894e3?v=a7708186531f49fd832f52e14fc75a57)
 
 <aside>
 ❤️ ***Thank you for your time!***
