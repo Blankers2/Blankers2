@@ -13,8 +13,6 @@
 **Contact**
 
 📞 **Tel       : 010-5549-6680**
-📧 **E-mail : blankers2@naver.com       
-                   idblankers2@gmail.com**
 
 ![KakaoTalk_20240503_164312304.jpg](About%20Me!%2092d86fdd42a346799db33a0dea583cb0/064fb46b-d840-4c6c-b391-3258307d0b19.png)
 
