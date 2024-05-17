@@ -31,7 +31,7 @@
 ---
 
 2024.01 ~ 2024.02  |  **멋쟁이 사자처럼
-[[TECHIT] 백엔드 온보딩 수료](https://techit.education/my/courses/printCertificate?courseId=kdc-backendp&attrId=kdc-backendp-20)**
+[[TECHIT] 백엔드 온보딩 수료][(https://techit.education/my/courses/printCertificate?courseId=kdc-backendp&attrId=kdc-backendp-20)](https://www.notion.so/About-Me-92d86fdd42a346799db33a0dea583cb0?pvs=4#54112487dfee49efaea790ebe9b0da73)**
 
 ---
 
